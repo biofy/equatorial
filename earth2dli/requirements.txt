@@ -1,0 +1,13 @@
+boto3==1.34.69
+cartopy
+earth2studio[sfno] @ git+https://github.com/swbg/earth2studio.git@e311c46dd4323f8bee54d4b533e5bcbd8a6ffd32
+ipywidgets
+jupyterlab-nvdashboard
+makani[all] @ git+https://github.com/NVIDIA/modulus-makani.git@v0.1.0
+opencv-python==4.8.0.74
+ruamel.yaml
+seaborn
+tensorly
+tensorly-torch
+torch-harmonics==0.6.5
+windpowerlib==0.2.2
