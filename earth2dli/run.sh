@@ -9,5 +9,5 @@ jupyter lab \
     --allow-root \
     --no-browser \
     --NotebookApp.token='' \
-    --notebook-dir=/workspace/repos \
+    --notebook-dir=earth2dli \
     --NotebookApp.allow_origin='*'

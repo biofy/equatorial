@@ -1,4 +1,4 @@
-FROM nvcr.io/nvidia/modulus/modulus:24.12
+FROM nvcr.io/nvidia/modulus/modulus:25.03
 
 RUN mkdir -p /workspace/earth2dli
 COPY requirements.txt /workspace/earth2dli/requirements.txt
